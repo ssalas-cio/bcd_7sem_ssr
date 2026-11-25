@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+convierte cuatro entradas binarias a salidas para display de 7 segmentos.
 
 ## How to test
 
-Explain how to use your project
+seleccionamos el estado de las entradas.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+dipswich y display de 7 segmentos.
