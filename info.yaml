@@ -2,7 +2,7 @@
 project:
   wokwi_id:     481701582012653569       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "bcd_7segs"      # Project title
-  author:       "Silvestre"      # Your name
+  author:       "Silvestre Salas"      # Your name
   discord:      "ssalas-cio"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "convertidor bcd a 7segmentos"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
